@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ADV-Business-Final-Project.props" />
+</Project>
